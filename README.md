@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhivyanj&label=Profile%20views&color=0e75b6&style=flat" alt="dhivyanj" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhivyanj" alt="dhivyanj trophies" /></a>
-</p>
+  <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhivyanj" alt="dhivyanj trophies" /></a>
+</p>-->
 
 ---
 
@@ -69,17 +69,21 @@
 
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Stats
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhivyanj&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyanj&theme=github_dark&hide_border=false&layout=compact" width="50%" />
+</p>
+-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhivyanj&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyanj&theme=github_dark&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivyanj&theme=github_dark&hide_border=false" width="50%" />
 </p>
 
+<!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivyanj&theme=github_dark&hide_border=false" width="97%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhivyanj&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="50%" />
 </p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dhivyanj&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="97%" />
-</p>
+-->
